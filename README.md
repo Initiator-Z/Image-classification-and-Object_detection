@@ -26,7 +26,7 @@ Uses Faster-RCNN and SDD as the convolutional base to detect redblood cells in t
 * Run the files in jupyter notebook.
 * Each notebook corresponds to the specific task to be performed.
 
-## Link to data and pretrained models
+## Link to dataset used
 Dataset used for object detection prepared and imported as TFRecords via RoboFlow
 * Image Classification https://data.mendeley.com/datasets/4drtyfjtfy/1
 * Object Detection: https://public.roboflow.com/object-detection/bccd
