@@ -20,7 +20,7 @@ Uses Faster-RCNN and SDD as the convolutional base to detect redblood cells in t
 * numpy 1.17.4
 
 ### Installing
-* clone the repository or download directly
+* Clone the repository or download directly
 
 ### Executing program
 * Run the files in jupyter notebook.
