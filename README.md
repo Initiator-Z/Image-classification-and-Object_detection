@@ -2,10 +2,10 @@
 This project contains seperate tasks of image classification and object detection
 
 ## Description
-###Image Classification
+### Image Classification
 Use DenseNet201 as the bases of transfer learning to classify weathers in the given dataset. 
 
-###Object Detection
+### Object Detection
 Uses Faster-RCNN and SDD as the convolutional base to detect redblood cells in the given dataset.
 
 ### Dependencies
